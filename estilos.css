@@ -1,0 +1,14 @@
+.imagen {
+    
+    height: 21.875rem;
+    width: 21.875;
+
+}
+
+.texto{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: 3rem;
+    font-style: oblique;
+}
